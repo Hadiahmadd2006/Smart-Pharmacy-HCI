@@ -1,0 +1,5 @@
+opencv-python
+mediapipe
+PySide6
+deepface
+numpy
